@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ![Anurag's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeongminJaden&theme=dracula) 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=C++,python,JavaScript,typescript,c)  ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeongminJaden&theme=dracula)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=HTML)  ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeongminJaden&theme=dracula)
