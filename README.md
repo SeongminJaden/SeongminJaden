@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 --> 
 ![Anurag's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeongminJaden&theme=dracula) 
 
-[Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=c++,python,javascript,typescript,c)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=c++,python,javascript,typescript,c)
 
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeongminJaden&theme=dracula)
 
-[Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeongminJaden&theme=dracula&utcOffset={utcOffset})
+![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeongminJaden&theme=dracula&utcOffset={utcOffset})
