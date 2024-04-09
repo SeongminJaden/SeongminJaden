@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 --> 
 ![Anurag's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeongminJaden&theme=dracula) 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=HTML)  ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeongminJaden&theme=dracula)
+
+🏢 Working at UZURO Tech Inc. as the TechLead, I am working as an AWS architect.
+🌱 I have experience in robotics and aerospace engineering.
+⚡ I am developing ROS-based robotics as a hobby.
+📫 You can reach me via e-mail: roboticsmaster@naver.com
