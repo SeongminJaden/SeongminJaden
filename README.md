@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ![Anurag's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeongminJaden&theme=dracula) 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=HTML,python)  ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeongminJaden&theme=dracula)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeongminJaden&theme=dracula&exclude=HTML)  ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeongminJaden&theme=dracula)
 
 🏢 Working at UZURO Tech Inc. as the TechLead, I am working as an AWS architect.</br>
 🌱 I have experience in robotics and aerospace engineering.</br>
